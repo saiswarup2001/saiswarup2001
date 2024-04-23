@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiswarup2001&label=Profile%20views&color=0e75b6&style=flat" alt="saiswarup2001" /> </p>
 
-- 🔭 I’m currently working on **Bank Management System using SpringBoot**
+- 🔭 I’m currently working on **Chat Application Microservice**
 
-- 🌱 I’m currently learning **Springboot, React and Tailwind Css**
+- 🌱 I’m currently learning **Springboot, Angular and Junit Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saiswarup2001?tab=repositories](https://github.com/saiswarup2001?tab=repositories)
 
-- 💬 Ask me about **Core Java, OOPs, Frontend Stacks**
+- 💬 Ask me about **Core Java, Springboot, OOPs, Frontend Stacks**
 
 - 📫 How to reach me **saiswarup2001@gmail.com**
 
